@@ -1,6 +1,6 @@
 # Proyecto finals
 
-- creado por
-- ED
+## Listado de cradores
+- creado por ED
 
 2019

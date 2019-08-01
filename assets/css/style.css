@@ -1,0 +1,37 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+header {
+    background-image: url('../img/foto inicio.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 10rem;
+    margin-top: 74px;
+}
+
+.edb-letra-h1 {
+    text-shadow: 1px 1px 3px rgb(17, 0, 255);
+}
+
+.titulo {
+    font-family: 'Oswald', sans-serif;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.h2 {
+    font-family: 'Oswald', sans-serif;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.contenedor {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 2rem;
+}
